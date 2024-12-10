@@ -33,7 +33,7 @@ export default function RootLayout({
         <header className="bg-blue-400 shadow-sm">
           <nav className="max-w-4xl mx-auto px-4 py-4">
             <div className="flex justify-between items-center">
-              <div className="font-bold text-xl">My App</div>
+              <div className="font-bold text-xl text-white">My App</div>
               <div className="space-x-6">
                 <Link href="/" className="text-white hover:text-gray-500">
                   ホーム
