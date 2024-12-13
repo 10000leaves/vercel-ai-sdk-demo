@@ -44,6 +44,9 @@ export default function RootLayout({
                 <Link href="/object" className="text-white hover:text-gray-500">
                   オブジェクト
                 </Link>
+                <Link href="/weather" className="text-white hover:text-gray-500">
+                  天気
+                </Link>
               </div>
             </div>
           </nav>
